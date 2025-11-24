@@ -21,6 +21,9 @@ public class Principal {
 		System.out.println("Pruebas de GitHub");
 		System.out.println("actualizacion, modificacion proyecto");
 		
+		float numer1=20, numero=50;
+		System.out.println("El resultado es "+ numer1*numero);
+		
 		do {
 			System.out.println("MENU PRINCIPAL");
 			System.out.println("1--AGREGAR");
