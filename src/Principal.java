@@ -18,6 +18,9 @@ public class Principal {
 		
 		List<Celulares> lista = new ArrayList<Celulares>();
 		
+		System.out.println("Pruebas de GitHub");
+		System.out.println("actualizacion, modificacion proyecto");
+		
 		do {
 			System.out.println("MENU PRINCIPAL");
 			System.out.println("1--AGREGAR");
